@@ -1,0 +1,120 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Siti Zulfah",
+      "avatar": "/avatars/siti.webp",
+      "rating": 5,
+      "quote": "Very satisfied with my visit here. Dr Nadia was very professional and explained everything clearly. The staff were friendly and also helpful. The clinic environment was clean and welcoming.",
+      "verified": true,
+      "source": "Google Review",
+      "linkedCaseId": 1,
+      "treatmentType": "General Checkup",
+      "hasPhotos": true,
+      "photoCount": 4
+    },
+    {
+      "id": 2,
+      "name": "Abdul Muhaimin",
+      "avatar": "/avatars/abdul.webp",
+      "rating": 5,
+      "quote": "I had my braces done by Dr. Nadia at Clinic Dental Heritage, and the whole experience has been amazing! Dr. Nadia is very gentle, professional, and always explains every step clearly so I feel comfortable throughout the procedure.",
+      "verified": true,
+      "source": "Google Review",
+      "linkedCaseId": 2,
+      "treatmentType": "Braces",
+      "hasPhotos": false
+    },
+    {
+      "id": 3,
+      "name": "Ladyana Jompis",
+      "avatar": "/avatars/ladyana.webp",
+      "rating": 5,
+      "quote": "Overall experience 10/10. The clinic environment and service is excellent. I've done my braces with Dr. Nadia, she is very professional and provide me with detail explanation and advice throughout my braces journey.",
+      "verified": true,
+      "source": "Google Review",
+      "linkedCaseId": 2,
+      "treatmentType": "Braces",
+      "hasPhotos": true,
+      "photoCount": 1
+    },
+    {
+      "id": 4,
+      "name": "Athirah Ridzuan",
+      "avatar": "/avatars/athirah.webp",
+      "rating": 5,
+      "quote": "Nice & friendly Dr Syazuwani & staffs! Handled with care, very professional, explained every steps in detail & no pain during the extraction. I did my braces here! Cozy & comfortable environment.",
+      "verified": true,
+      "source": "Google Review",
+      "linkedCaseId": 3,
+      "treatmentType": "Braces + Extraction",
+      "hasPhotos": true,
+      "photoCount": 6
+    },
+    {
+      "id": 5,
+      "name": "Syahidan Zakaria",
+      "avatar": "/avatars/syahidan.webp",
+      "rating": 5,
+      "quote": "Good service. Feel comfortable. Tq Dr nurina and all staff. Recommended.",
+      "verified": true,
+      "source": "Google Review",
+      "linkedCaseId": 1,
+      "treatmentType": "General Treatment",
+      "hasPhotos": true,
+      "photoCount": 14
+    },
+    {
+      "id": 6,
+      "name": "Halimah Ali",
+      "avatar": "/avatars/halimah.webp",
+      "rating": 5,
+      "quote": "Amazing experience with Dr. Nadia and Dr Wani! Getting braces felt intimidating at first, but the doctor and team made it so easy and comfortable. They were patient, encouraging, and truly cared about my progress.",
+      "verified": true,
+      "source": "Google Review",
+      "linkedCaseId": 2,
+      "treatmentType": "Braces",
+      "hasPhotos": false
+    },
+    {
+      "id": 7,
+      "name": "Nurhafizatul Sakinah",
+      "avatar": "/avatars/nurhafizatul.webp",
+      "rating": 5,
+      "quote": "Had my braces treatment at Dental Heritage. The service was very fast, the doctor was kind (Dr Wani) and friendly, and all the staff were very responsive and helpful. Highly recommended!",
+      "verified": true,
+      "source": "Google Review",
+      "linkedCaseId": 2,
+      "treatmentType": "Braces",
+      "hasPhotos": true,
+      "photoCount": 3
+    },
+    {
+      "id": 8,
+      "name": "Fasihah Aminah",
+      "avatar": "/avatars/fasihah.webp",
+      "rating": 5,
+      "quote": "Dr. Syazuwani was very detailed, patient, and gentle, and she explained my braces progress thoroughly. I highly recommend Dental Heritage and the staff are very friendly and helpful as well.",
+      "verified": true,
+      "source": "Google Review",
+      "linkedCaseId": 2,
+      "treatmentType": "Braces Checkup",
+      "hasPhotos": true,
+      "photoCount": 1
+    },
+    {
+      "id": 9,
+      "name": "Hadirah",
+      "avatar": "/avatars/hadirah.webp",
+      "rating": 5,
+      "quote": "Did teeth scaling here for the first time. I recommend to do it here simply because of the service. The scaling process was little to no pain, unlike in other dental clinics I've been to. The price was rather reasonable.",
+      "verified": true,
+      "source": "Google Review",
+      "linkedCaseId": 4,
+      "treatmentType": "Teeth Scaling",
+      "hasPhotos": true,
+      "photoCount": 3
+    }
+  ]
+}
+
